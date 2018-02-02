@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Movies App</string>
+    <string name="str_txt_title">Nombre:</string>
+    <string name="str_msj_loading_movies">Cargando películas...</string>
+    <string name="str_title_alert_error_movies">Error</string>
+    <string name="str_msj_alert_error_movies">Error cargando peliculas</string>
+    <string name="ok">Ok</string>
+    <string name="str_msj_loading_info_movie">Cargando información...</string>
+    <string name="str_msj_alert_error_info_movie">Error cargando información.</string>
+    <string name="action_search">Buscar...</string>
+</resources>

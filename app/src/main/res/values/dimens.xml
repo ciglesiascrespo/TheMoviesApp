@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_txt_title">10dp</dimen>
+    <dimen name="margin_top_recyclerview">10dp</dimen>
+    <dimen name="margin_top_img_ic_date">10dp</dimen>
+    <dimen name="cardview_margin">10dp</dimen>
+    <dimen name="cardview_radius">4dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+    <dimen name="text_size_title_item_list">14sp</dimen>
+    <dimen name="spacing">8dp</dimen>
+    <dimen name="height_cardview">250dp</dimen>
+    <dimen name="margin_botton_cardview">5dp</dimen>
+    <dimen name="padding_cardview_detalle_sitio">5dp</dimen>
+    <dimen name="padding_linear_layout_info">5dp</dimen>
+</resources>
